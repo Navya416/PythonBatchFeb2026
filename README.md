@@ -162,4 +162,19 @@ To create new branch
 
         1) try to the sum of digits in a integer number, using divmod()
         2) If a clock has revolved for 32 times, and is half way, how many days completed  
-         
+
+# class04
+
+        Practical Problem solving
+        working with complex numbers
+        abs() function
+        Operator precedence in Arithmetic operations
+
+    Assignments:
+
+        1) savings Bank 
+        2) Bank loan
+            simple interest 
+            compund interest
+        3) convert from hex to oct , and vice versa
+        4) feet to cms conversion        
