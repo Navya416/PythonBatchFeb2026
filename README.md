@@ -71,55 +71,56 @@ To create new branch
 
 # Virtual Environment
 
-    Isolated environment 
+        Isolated environment 
 
-why needed
-    - same system, multiple projects
-        - different python versions 
-        - same python verison, but differenet module versions
+    why needed
+        - same system, multiple projects
+            - different python versions 
+            - same python verison, but differenet module versions
 
-How to create Virtual Environment 
-    - Virtualenv
-    - venv
-    - pipenv
-    - poetry 
-    - uv
+    How to create Virtual Environment 
+        - Virtualenv
+        - venv
+        - pipenv
+        - poetry 
+        - uv
 
-1) Using Virtualenv
-    
-    Install
-        pip install virtualenv
-    
-    create virtual environment
-        python -m virtualenv .venv
-    
-    activate virtual environment
-        linux
-            source .venv/bin/activate
+    1) Using Virtualenv
+        
+        Install
+            pip install virtualenv
+        
+        create virtual environment
+            python -m virtualenv .venv
+        
+        activate virtual environment
+            linux
+                source .venv/bin/activate
 
-        windows
-            .venv/script/activate
+            windows
+                .venv/script/activate
 
-2) Using Poetry
-    pip install -U pip poetry
+    2) Using Poetry
+        pip install -U pip poetry
 
-    python -m poetry config virtualenvs.create true
-    python -m poetry config virtualenvs.in-project true
-    python -m poetry config installer.parallel true
-    python -m poetry config installer.max-workers 5
-    
-    python -m poetry init
-    #python -m poetry shell
-    python -m poetry install --no-root
+        python -m poetry config virtualenvs.create true
+        python -m poetry config virtualenvs.in-project true
+        python -m poetry config installer.parallel true
+        python -m poetry config installer.max-workers 5
+        
+        python -m poetry init
+        #python -m poetry shell
+        python -m poetry install --no-root
 
-    python -m poetry env info   
-    venvpath/python/Scripts/activate
+        python -m poetry env info   
+        venvpath/python/Scripts/activate
 
-    pip install poetry
-    poetry add pandas        
+        pip install poetry
+        poetry add pandas        
 
 # Course Completed
 
+# class00
     00. Dev Setup
     Installing IDE/Editor
     Installing Python and local setup
@@ -129,8 +130,36 @@ How to create Virtual Environment
     markdown syntax
     daily activity and usage
 
+# class01
+
     01.Introduction
         Importance of Python
         Two versions of Python (2.x & 3.x)
 
-    
+# class02
+        PEP 8 Guidelines (https://peps.python.org/pep-0008/)
+        Shebang line
+        Indendation Issue and best practices
+        built-in functions
+        print function
+        Script mode vs interactive mode
+        Jupyter notebook usage
+        Ascii and Unicode characters
+
+# class03
+
+    Comment Operator
+    keywords and Identifiers
+    Line continuation and statement separator operators
+
+    02.Basics
+        Arithmetic operations
+            +, -, , /, //, %, *
+            divmod() function
+            compound opertions
+
+    Assignments:
+
+        1) try to the sum of digits in a integer number, using divmod()
+        2) If a clock has revolved for 32 times, and is half way, how many days completed  
+         
