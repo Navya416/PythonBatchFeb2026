@@ -202,3 +202,8 @@ To create new branch
     String formatting: old & new styles, f-strings
     bytearray() and byte() strings
     unicode strings
+
+# class08
+    
+    String formatting: old & new styles, f-strings
+    unicode strings
