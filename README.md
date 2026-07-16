@@ -126,25 +126,28 @@ To create new branch
     Installing Python and local setup
     Github access, creating project
 
+
+# class01
+
         git commands
     markdown syntax
     daily activity and usage
-
-# class01
 
     01.Introduction
         Importance of Python
         Two versions of Python (2.x & 3.x)
 
 # class02
-        PEP 8 Guidelines (https://peps.python.org/pep-0008/)
-        Shebang line
-        Indendation Issue and best practices
-        built-in functions
-        print function
-        Script mode vs interactive mode
-        Jupyter notebook usage
-        Ascii and Unicode characters
+       
+    PEP 8 Guidelines (https://peps.python.org/pep-0008/)
+    Shebang line
+    Indendation Issue and best practices
+    built-in functions
+    print function
+    Script mode vs interactive mode
+    Jupyter notebook usage
+    Ascii and Unicode characters
+
 
 # class03
 
@@ -161,9 +164,9 @@ To create new branch
     Assignments:
 
         1) try to the sum of digits in a integer number, using divmod()
-        2) If a clock has revolved for 32 times, and is half way, how many days completed  
+        2) If a clock has revolved for 32 times, and is half way, how many days completed
 
-# class04
+# class04-1
 
         Practical Problem solving
         working with complex numbers
@@ -177,4 +180,11 @@ To create new branch
             simple interest 
             compund interest
         3) convert from hex to oct , and vice versa
-        4) feet to cms conversion        
+        4) feet to cms conversion    
+
+# class04-2
+
+    String operations
+    Usage of single, double and triple quotes
+    len() function
+    Indexing and Slicing Strings
