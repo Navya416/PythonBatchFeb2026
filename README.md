@@ -218,3 +218,11 @@ To create new branch
         Relational Operations
         Logical Operations
     
+# class10
+
+        Boolean Operations
+    Bitwise Operations
+    Identity Operations
+        Dual Memory management Strategy
+    range() function
+    Conditional Operations
