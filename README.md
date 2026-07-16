@@ -226,3 +226,9 @@ To create new branch
         Dual Memory management Strategy
     range() function
     Conditional Operations
+
+# class11
+
+        Structural Pattern Matching
+    Loops: for & while, break, continue, pass, sys.exit
+    # Assignment: Try these break, continue, pass, on a for loop example
