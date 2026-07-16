@@ -207,3 +207,14 @@ To create new branch
     
     String formatting: old & new styles, f-strings
     unicode strings
+
+# class09
+
+     bytearray() and byte() strings
+    Usage of help
+    Usage of pydoc
+
+    03.Language Components
+        Relational Operations
+        Logical Operations
+    
