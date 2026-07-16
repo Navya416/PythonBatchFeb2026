@@ -182,9 +182,16 @@ To create new branch
         3) convert from hex to oct , and vice versa
         4) feet to cms conversion    
 
-# class04-2
+# class05
 
     String operations
     Usage of single, double and triple quotes
     len() function
     Indexing and Slicing Strings
+
+# class06
+
+    string attributes
+    String formatting: old & new styles, f-strings
+    bytearray() and byte() strings
+    unicode strings
