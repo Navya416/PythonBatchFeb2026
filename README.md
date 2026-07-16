@@ -195,3 +195,10 @@ To create new branch
     String formatting: old & new styles, f-strings
     bytearray() and byte() strings
     unicode strings
+
+# class07
+
+    string attributes
+    String formatting: old & new styles, f-strings
+    bytearray() and byte() strings
+    unicode strings
