@@ -232,3 +232,17 @@ To create new branch
         Structural Pattern Matching
     Loops: for & while, break, continue, pass, sys.exit
     # Assignment: Try these break, continue, pass, on a for loop example
+
+# class12
+
+        Walrus Operator
+
+04.Exception Handling
+    Exceptions Hierarchy
+    Different types of errors, error vs exception and exception groups
+    Handling single and multiple exceptions
+    raising exceptions
+    asserts
+    traceback
+    exception Groups
+    warnings
