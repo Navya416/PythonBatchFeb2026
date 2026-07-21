@@ -261,3 +261,11 @@ To create new branch
 
     06.Collections
     Lists
+
+# class15
+
+    Copy Problem - shallow copy vs deepcopy
+    Tuples & namedtuples
+    Immutability & unpacking
+    Sets
+        attributes, operations
