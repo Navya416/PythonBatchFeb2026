@@ -256,3 +256,8 @@ To create new branch
     breakpoint() function
     PYTHONBREAKPOINT environment variable usage
     post analyses of executed script
+
+# class14
+
+    06.Collections
+    Lists
