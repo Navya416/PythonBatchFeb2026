@@ -269,3 +269,12 @@ To create new branch
     Immutability & unpacking
     Sets
         attributes, operations
+
+# class16
+
+        fronzensets
+    Dictionaries
+        zip() function
+        workaround for switch case
+    Comprehensions
+    Working with Iterables - sum(), max(), min()
